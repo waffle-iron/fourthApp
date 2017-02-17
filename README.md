@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ChukkChukk/fourthApp.png?label=ready&title=Ready)](https://waffle.io/ChukkChukk/fourthApp)
 # fourth-app
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.6.
